@@ -7,8 +7,9 @@ Matricula: 926758
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+Print da tela de inspeção do navegador e index.html
+![Bíblia FJA](images/Captura%20%201.png)
+![Site](images/Captura%20do%20site.png)
 
 
 ## Orientações sobre Linguagem MarkDown
